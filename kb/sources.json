@@ -1,0 +1,47 @@
+{
+ "S1": {
+  "cite": "Mudare S., Jing J., Makowski D., et al. (2025). Crop rotations synergize yield, nutrition, and revenue: a meta-analysis. Nature Communications 16, 9552.",
+  "url": "https://doi.org/10.1038/s41467-025-64567-9",
+  "finding": "3,663 paired field observations from 738 experiments (1980-2024): legume pre-crops raised the following crop's yield by 23% on average versus 16% for non-legume pre-crops; whole rotation sequences gave 14-27% more yield, dietary energy, protein, iron, magnesium, zinc and revenue than continuous monoculture; yields varied less from year to year."
+ },
+ "S2": {
+  "cite": "Franke A.C., van den Brand G.J., Vanlauwe B., Giller K.E. (2018). Systematic review of grain-legume rotations with cereals in sub-Saharan Africa (44 publications, 199 observations).",
+  "url": "https://thehive.icipe.org/all-prp/490",
+  "finding": "All grain legumes improved cereal yields; effects were stronger after soybean and groundnut than after cowpea, and stronger for maize than for millet and sorghum."
+ },
+ "S3": {
+  "cite": "Bagayoko M., Buerkert A., Lung G., Bationo A., Roemheld V. (2000). Cereal/legume rotation effects on cereal growth in Sudano-Sahelian West Africa. Plant and Soil 218:103-116.",
+  "url": "https://doi.org/10.1023/A:1014957605852",
+  "finding": "Cereal yields rose after legumes at all four sites; soil mineral nitrogen effects were larger after groundnut than cowpea; sorghum after groundnut had fewer nematodes, but millet and cowpea were both good nematode hosts."
+ },
+ "S4": {
+  "cite": "FAO (1986) seasonal crop water needs, as tabulated by SSWM (Crop Selection factsheet).",
+  "url": "https://sswm.info/water-nutrient-cycle/water-use/hardwares/conservation-soil-moisture/crop-selection",
+  "finding": "Approximate seasonal water needs in mm: bean 300-500, maize 500-800, peanut 500-700, rice (paddy) 450-700, sorghum/millet 450-650, soybean 450-700, wheat 450-650."
+ },
+ "S5": {
+  "cite": "University of Nebraska CropWatch (2020), summarising Gentry et al. (2013) and Seifert et al.: Yield penalties for continuous corn and soybean in the Midwest, US.",
+  "url": "https://cropwatch.unl.edu/2020/yield-penalties-continuous-corn-and-soybean-midwest-us",
+  "finding": "Continuous corn averaged a 4.3% yield penalty and continuous soybean 10.3% versus rotated crops, larger in low-moisture and low-yield conditions."
+ },
+ "S6": {
+  "cite": "China crop-rotation meta-analysis (45 studies, 214 comparisons), record 19654813 on peeref.",
+  "url": "https://peeref.com/works/19654813",
+  "finding": "Rotation benefits were much larger at low nitrogen rates (120 kg/ha or less) and persisted for 2-3 years; legume pre-crops gave the largest gains."
+ },
+ "S7": {
+  "cite": "FAO and IIASA (2025). Global Agro-ecological Zoning v5 (GAEZ v5) model documentation.",
+  "url": "https://www.fao.org/gaez/en",
+  "finding": "Suitability compares attainable yield with the maximum biological yield for the crop; seven suitability classes from highly suitable to unsuitable, separately for rain-fed or irrigated water supply and low or high input management."
+ },
+ "S8": {
+  "cite": "Global systematic review with meta-analysis reveals yield advantage of legume-based rotations and its drivers. Nature Communications 13 (2022).",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/9395539",
+  "finding": "Legume-based rotations raised yields by 20.4% on average across 462 experiments in 53 countries; about a quarter of observations were negative; the effect was smaller with high nitrogen input or high diversity and larger in low-yielding settings."
+ },
+ "S9": {
+  "cite": "Yao et al. (2025). Legume-rice rotations. One Earth.",
+  "url": "https://agritrop.cirad.fr/611529/1/Yao%20et%20al.%2C%202025.pdf",
+  "finding": "Rice yield rose by 15.7% after legumes, with larger gains under low nitrogen input."
+ }
+}
